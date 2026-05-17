@@ -268,7 +268,7 @@ footer {
     font-size: clamp(14px, 3.2vw, 18px);
     line-height: 1.28;
 
-    font-weight: 600;
+    font-weight: 550;
     letter-spacing: -0.055em;
 
     word-break: keep-all;
