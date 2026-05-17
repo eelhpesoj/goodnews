@@ -276,7 +276,7 @@ footer {
   }
 
   footer {
-    margin-top: 56px;
+    margin-top: 46px;
 
     font-size: clamp(16px, 3.5vw, 24px);
     line-height: 1.3;
