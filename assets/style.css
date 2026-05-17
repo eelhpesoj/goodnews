@@ -230,6 +230,7 @@ footer {
   }
 
   .hero p {
+    margin: 10px 0 0;
     font-size: clamp(24px, 6vw, 34px);
   }
 
