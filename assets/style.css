@@ -179,7 +179,7 @@ footer {
   }
 
   .card {
-    grid-template-columns: 1fr;
+    /*grid-template-columns: 1fr;*/
     gap: 22px;
     padding: 22px 0 28px;
   }
