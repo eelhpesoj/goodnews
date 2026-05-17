@@ -118,7 +118,7 @@ body {
   font-size: clamp(46px, 7vw, 64px);
   line-height: 1.05;
 
-  font-weight: 800;
+  font-weight: 700;
   letter-spacing: -0.06em;
 
   word-break: keep-all;
