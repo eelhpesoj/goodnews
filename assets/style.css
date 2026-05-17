@@ -140,7 +140,7 @@ body {
   margin: 0 0 14px;
   font-size: clamp(38px, 5vw, 48px);
   line-height: 1.15;
-  font-weight: 900;
+  font-weight: 750;
   letter-spacing: -0.07em;
 }
 
@@ -148,7 +148,7 @@ body {
   margin: 0;
   font-size: clamp(22px, 3vw, 28px);
   line-height: 1.35;
-  font-weight: 800;
+  font-weight: 700;
   letter-spacing: -0.055em;
 }
 
@@ -160,76 +160,6 @@ footer {
   font-weight: 900;
   letter-spacing: -0.06em;
 }
-
-/*
-@media (max-width: 760px) {
-  body {
-    background: #fff;
-  }
-
-  .page {
-    padding: 80px 24px 52px;
-  }
-
-  .hero {
-    margin-bottom: 72px;
-  }
-
-  .logo {
-    width: 128px;
-  }
-
-  .card {
-    grid-template-columns: 1fr;
-    gap: 22px;
-    padding: 22px 0 28px;
-  }
-}
-*/
-
-/*
-@media (max-width: 760px) {
-
-  body {
-    background: #fff;
-  }
-
-  .page {
-    padding: 80px 24px 52px;
-  }
-
-  .hero {
-    margin-bottom: 72px;
-  }
-
-  .logo {
-    width: 128px;
-  }
-
-  .card {
-    grid-template-columns: 48% 52%;
-    gap: 18px;
-    padding: 22px 0 28px;
-    align-items: center;
-  }
-
-  .card h2 {
-    font-size: 2rem;
-    line-height: 1.1;
-  }
-
-  .card p {
-    font-size: 1rem;
-    line-height: 1.35;
-  }
-    
-  .card img {
-    width: 100%;
-    height: auto;
-    display: block;
-  }
-}
-*/
 
 
 @media (max-width: 760px) {
