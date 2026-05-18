@@ -145,7 +145,7 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr;
 
-  gap: 44px;
+  gap: 34px;
   align-items: center;
 
   padding: 24px 0;
