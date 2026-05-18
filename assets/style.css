@@ -259,7 +259,7 @@ footer {
 
     font-size: clamp(22px, 5vw, 30px);
     line-height: 1.08;
-    margin-left: -8px;
+    margin-left: -15px;
 
     font-weight: 700;
     letter-spacing: -0.07em;
@@ -270,7 +270,7 @@ footer {
   .card p {
     font-size: clamp(14px, 3.2vw, 18px);
     line-height: 1.28;
-    margin-left: -8px;
+    margin-left: -15px;
 
     font-weight: 550;
     letter-spacing: -0.055em;
