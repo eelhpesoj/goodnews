@@ -291,6 +291,6 @@ footer {
   background: #222222;
   width: calc(100% + 44px);
   margin: 50px 0 -52px -22px;
-  height: 100vh;
+  height: 80px;
 }
 }
