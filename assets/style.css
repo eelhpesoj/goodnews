@@ -246,7 +246,7 @@ footer {
   }
 
   .card img {
-    width: 100%;
+    width: 80%;
 
     aspect-ratio: 16 / 10;
     object-fit: cover;
