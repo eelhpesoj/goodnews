@@ -295,7 +295,16 @@ footer {
 }
 
 .arrow-btn {
-  width: 28px;
-  height: 28px;
+  position: absolute;
+
+  right: 0;
+  top: 50%;
+
+  transform: translateY(-50%);
+
+  width: 42px;
+  height: 42px;
+
+  object-fit: contain;
 }
 }
