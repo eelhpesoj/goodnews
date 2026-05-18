@@ -215,7 +215,6 @@ footer {
 
   .page {
     padding: 42px 22px 52px;
-    margin-bottom: -52px;
   }
 
   .hero {
@@ -290,11 +289,8 @@ footer {
 
 .bottom-block {
   background: #222222;
-
   width: calc(100% + 44px);
-
   margin: 50px 0 -52px -22px;
-
   height: 100vh;
 }
 }
