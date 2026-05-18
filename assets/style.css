@@ -116,7 +116,7 @@ body {
 .hero h1 {
   margin: 0;
 
-  font-size: clamp(36px, 7vw, 54px);
+  font-size: clamp(26px, 7vw, 44px);
   line-height: 1.05;
 
   font-weight: 700;
@@ -128,10 +128,10 @@ body {
 .hero p {
   margin: 18px 0 0;
 
-  font-size: clamp(28px, 4vw, 36px);
+  font-size: clamp(18px, 4vw, 26px);
   line-height: 1.1;
 
-  font-weight: 800;
+  font-weight: 600;
   letter-spacing: -0.06em;
 
   word-break: keep-all;
