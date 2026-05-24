@@ -281,7 +281,7 @@ footer {
 
     .address {
     font-size: clamp(9px, 3.2vw, 16px);
-    color: #808080;
+    color: #a5a5a5;
     line-height: 1.28;
     margin-left: -25px;
 
