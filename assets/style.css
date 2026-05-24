@@ -279,8 +279,9 @@ footer {
     word-break: keep-all;
   }
 
-    .card p2 {
-    font-size: clamp(11px, 3.2vw, 18px);
+    .card address {
+    font-size: clamp(9px, 3.2vw, 16px);
+    color: grey;
     line-height: 1.28;
     margin-left: -25px;
 
