@@ -279,7 +279,7 @@ footer {
     word-break: keep-all;
   }
 
-    .p address {
+    .address {
     font-size: clamp(9px, 3.2vw, 16px);
     color: #808080;
     line-height: 1.28;
